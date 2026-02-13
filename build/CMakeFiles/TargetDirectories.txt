@@ -1,0 +1,5 @@
+/home/baiguai/documents/development/cpp/mnemothoth/mnemothoth/build/CMakeFiles/mnemothoth.dir
+/home/baiguai/documents/development/cpp/mnemothoth/mnemothoth/build/CMakeFiles/edit_cache.dir
+/home/baiguai/documents/development/cpp/mnemothoth/mnemothoth/build/CMakeFiles/rebuild_cache.dir
+/home/baiguai/documents/development/cpp/mnemothoth/mnemothoth/build/CMakeFiles/mnemothoth_autogen_timestamp_deps.dir
+/home/baiguai/documents/development/cpp/mnemothoth/mnemothoth/build/CMakeFiles/mnemothoth_autogen.dir
